@@ -1,9 +1,3 @@
 .container {
   margin-top: 30px;
 }
-
-.active {
-  background-color: black;
-  color: red;
-  transform: scale(1.2);
-}
